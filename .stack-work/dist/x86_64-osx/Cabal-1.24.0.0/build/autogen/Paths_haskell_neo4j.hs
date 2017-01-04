@@ -30,7 +30,7 @@ version = Version [0,1,0,0] []
 bindir, libdir, datadir, libexecdir, sysconfdir :: FilePath
 
 bindir     = "/Users/jameshamilton/other-projects/haskell-neo4j/.stack-work/install/x86_64-osx/lts-7.14/8.0.1/bin"
-libdir     = "/Users/jameshamilton/other-projects/haskell-neo4j/.stack-work/install/x86_64-osx/lts-7.14/8.0.1/lib/x86_64-osx-ghc-8.0.1/haskell-neo4j-0.1.0.0-CLCiyMswpEe7wBksrLrPKq"
+libdir     = "/Users/jameshamilton/other-projects/haskell-neo4j/.stack-work/install/x86_64-osx/lts-7.14/8.0.1/lib/x86_64-osx-ghc-8.0.1/haskell-neo4j-0.1.0.0-2WWPxVgmFON3IxeVNrX25d"
 datadir    = "/Users/jameshamilton/other-projects/haskell-neo4j/.stack-work/install/x86_64-osx/lts-7.14/8.0.1/share/x86_64-osx-ghc-8.0.1/haskell-neo4j-0.1.0.0"
 libexecdir = "/Users/jameshamilton/other-projects/haskell-neo4j/.stack-work/install/x86_64-osx/lts-7.14/8.0.1/libexec"
 sysconfdir = "/Users/jameshamilton/other-projects/haskell-neo4j/.stack-work/install/x86_64-osx/lts-7.14/8.0.1/etc"

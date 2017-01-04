@@ -14,6 +14,13 @@
   (major1) == 4 && (major2) <  9 || \
   (major1) == 4 && (major2) == 9 && (minor) <= 0)
 
+/* package text-1.2.2.1 */
+#define VERSION_text "1.2.2.1"
+#define MIN_VERSION_text(major1,major2,minor) (\
+  (major1) <  1 || \
+  (major1) == 1 && (major2) <  2 || \
+  (major1) == 1 && (major2) == 2 && (minor) <= 2)
+
 /* tool cpphs-1.20.2 */
 #define TOOL_VERSION_cpphs "1.20.2"
 #define MIN_TOOL_VERSION_cpphs(major1,major2,minor) (\
@@ -77,7 +84,7 @@
   (major1) == 0 && (major2) <  29 || \
   (major1) == 0 && (major2) == 29 && (minor) <= 1)
 
-#define CURRENT_COMPONENT_ID "haskell-neo4j-0.1.0.0-CLCiyMswpEe7wBksrLrPKq"
+#define CURRENT_COMPONENT_ID "haskell-neo4j-0.1.0.0-2WWPxVgmFON3IxeVNrX25d"
 
-#define CURRENT_PACKAGE_KEY "haskell-neo4j-0.1.0.0-CLCiyMswpEe7wBksrLrPKq"
+#define CURRENT_PACKAGE_KEY "haskell-neo4j-0.1.0.0-2WWPxVgmFON3IxeVNrX25d"
 
