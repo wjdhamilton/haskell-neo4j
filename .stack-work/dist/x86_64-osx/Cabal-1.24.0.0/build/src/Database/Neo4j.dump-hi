@@ -1,0 +1,47 @@
+
+==================== FINAL INTERFACE ====================
+2017-01-04 15:42:22.140894 UTC
+
+interface haskell-neo4j-0.1.0.0-CLCiyMswpEe7wBksrLrPKq:Database.Neo4j 8001
+  interface hash: 065870c3095c4327fe3b0b6037c8a20d
+  ABI hash: 719ecf48c24a74a26128675e046b1173
+  export-list hash: 1e51e1ca10f94a1b3ad5308e659c77d6
+  orphan hash: 693e9af84d3dfcc71e640e005bdc5e2e
+  flag hash: a55c0020b2604ba819f689e12ee89eaa
+  sig of: Nothing
+  used TH splices: False
+  where
+exports:
+module dependencies:
+package dependencies: base-4.9.0.0* ghc-prim-0.5.0.0
+                      integer-gmp-1.0.0.1
+orphans: base-4.9.0.0:GHC.Base base-4.9.0.0:GHC.Float
+family instance modules: base-4.9.0.0:Control.Applicative
+                         base-4.9.0.0:Data.Either base-4.9.0.0:Data.Functor.Const
+                         base-4.9.0.0:Data.Monoid base-4.9.0.0:Data.Type.Equality
+                         base-4.9.0.0:GHC.Generics base-4.9.0.0:GHC.IO.Exception
+                         base-4.9.0.0:GHC.TypeLits
+import  -/  base-4.9.0.0:Prelude b9bddb97799837fe67a8d00939a5b6c3
+9dedc1113daefb8da1193971d41fb8ac
+  $trModule :: GHC.Types.Module
+  {- HasNoCafRefs, Strictness: m,
+     Unfolding: (GHC.Types.Module
+                   Database.Neo4j.$trModule2
+                   Database.Neo4j.$trModule1) -}
+05c7d8fd9b821b7d536b14dab2f569d7
+  $trModule1 :: GHC.Types.TrName
+  {- HasNoCafRefs, Strictness: m1,
+     Unfolding: (GHC.Types.TrNameS "Database.Neo4j"#) -}
+02e5c9f0be250b9ce05f6198b539185c
+  $trModule2 :: GHC.Types.TrName
+  {- HasNoCafRefs, Strictness: m1,
+     Unfolding: (GHC.Types.TrNameS
+                   "haskell-neo4j-0.1.0.0-CLCiyMswpEe7wBksrLrPKq"#) -}
+vectorised variables:
+vectorised tycons:
+vectorised reused tycons:
+parallel variables:
+parallel tycons:
+trusted: safe
+require own pkg trusted: False
+
