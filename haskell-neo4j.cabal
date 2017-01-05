@@ -17,7 +17,15 @@ library
   hs-source-dirs:      src
   exposed-modules:     Database.Neo4j
   build-depends:       base >= 4.7 && < 5
+                     , aeson
+                     , base64-bytestring
+                     , bytestring
+                     , lens
+                     , lens-aeson
                      , text
+                     , unordered-containers
+                     , url
+                     , wreq
   default-language:    Haskell2010
 
 test-suite haskell-neo4j-test
